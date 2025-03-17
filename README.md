@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendergupta&label=Profile%20views&color=0e75b6&style=flat" alt="surendergupta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surendergupta" alt="surendergupta" /></a> </p>
+<p align="left"> <a href="https://github.com/surendergupta/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surendergupta&margin-w=15&margin-h=15" alt="surendergupta" /></a> </p>
 
 - 💬 Ask me about **I'm a **DevOps Engineer** with experience in **AWS, Kubernetes, Terraform, Docker, Jenkins, CI/CD, and Cloud Monitoring**. I have a strong background in **Full-Stack Development** with expertise in **PHP (Laravel/CodeIgniter), React.js, MySQL, and Node.js**.**
 
@@ -21,10 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surendergupta&show_icons=true&locale=en" alt="surendergupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surendergupta&" alt="surendergupta" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=surendergupta&title=Stars,Followers" alt="surendergupta" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=surendergupta&theme=monokai&margin-w=15&margin-h=15" alt="surendergupta" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=surendergupta&limit=5&theme=flat&combine_all_yearly_contributions=true)
