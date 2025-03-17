@@ -1,8 +1,24 @@
 <h1 align="center">Hi 👋, I'm Surender Gupta</h1>
-<h3 align="center">A passionate DevOps Engineer from India.</h3>
+<h2>🚀 DevOps Engineer | Full Stack Developer | Cloud Enthusiast</h2>
+<h3 align="center">A passionate DevOps Engineer from India. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendergupta&label=Profile%20views&color=0e75b6&style=flat" alt="surendergupta" /> </p>
 
+<h3 align="left">🔹 About Me</h3>
+- 💼 Currently transitioning into a **DevOps role**
+- 🎓 BCA from **IPU** (2013), MCA from **IGNOU** (2016)
+- ⚙️ Experienced in **CI/CD, Kubernetes, Terraform, AWS, Docker**
+- 🌍 Previously worked on **MLM software, DApps, React & PHP projects**
+- 🚀 Passionate about **Cloud Computing, DevOps Automation, and Scalable Architectures**
+
+<h3 align="left">🔹 Skills & Tools</h3>
+- 💻 **Programming:** Python, JavaScript, PHP (Laravel/CodeIgniter), React, Node.js  
+- ⚙️ **DevOps:** Jenkins, Kubernetes, Terraform, Docker, SonarQube  
+- ☁️ **Cloud:** AWS (EC2, EKS, Route 53, S3, CloudWatch, ALB, ASG)  
+- 📦 **Infrastructure:** Helm, Terraform, Ansible  
+- 🔗 **Other:** GitHub Actions, Web Security, Monitoring with Grafana
+
+<h3 align="left">🔹 Projects</h3>
 - 👨‍💻 All of my projects are available at [https://github.com/surendergupta](https://github.com/surendergupta)
 - 💬 Ask me about
     - **AWS, Kubernetes, Terraform, and Docker**
