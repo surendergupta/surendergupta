@@ -8,6 +8,7 @@
     - **AWS, Kubernetes, Terraform, and Docker**
     - **CI/CD Pipelines & Infrastructure as Code (IaC)**
     - **Full-Stack Development (PHP, React.js, Node.js, MySQL)**
+- ⚡ Fun fact **I transitioned from **Full-Stack Development** to **DevOps**, leveraging my programming skills to automate and optimize cloud infrastructures!**
 
 <p align="left"> <a href="https://github.com/surendergupta/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surendergupta&margin-w=15&margin-h=15" alt="surendergupta" /></a> </p>
 
