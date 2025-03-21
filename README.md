@@ -24,15 +24,18 @@
     - **AWS, Kubernetes, Terraform, and Docker**
     - **CI/CD Pipelines & Infrastructure as Code (IaC)**
     - **Full-Stack Development (PHP, React.js, Node.js, MySQL)**
+- 📫 How to reach me **gupta.surender.1990@gmail.com**
 - ⚡ Fun fact **I transitioned from **Full-Stack Development** to **DevOps**, leveraging my programming skills to automate and optimize cloud infrastructures!**
-
 <h3 align="left">Profile Trophy</h3>
 <p align="left"> <a href="https://github.com/surendergupta/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surendergupta&margin-w=15&margin-h=15&theme=radical" alt="surendergupta" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/surendergupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="surendergupta" height="30" width="40" /></a>
 <a href="https://twitter.com/websoftnetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="websoftnetwork" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surender-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surender-gupta" height="30" width="40" /></a>
+<a href="https://medium.com/@gupta.surender.1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gupta.surender.1990" height="30" width="40" /></a>
+</p>
 <a href="mailto:gupta.surender.1990@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gupta.surender.1990@gmail.com" height="30" width="40" /></a>
 </p>
 
